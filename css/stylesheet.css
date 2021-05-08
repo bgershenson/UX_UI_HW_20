@@ -1,0 +1,59 @@
+.navigation {
+    background-color: blue;
+    margin:80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100%;
+    align-items: center;
+
+}
+.navigationLogo {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navigationLogo img {
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+}
+.backArrow {
+    margin-left: 80px;
+}
+
+.socialIcons img {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+.socialIcons {
+    text-align: right;
+}
+
+.jumbotron {
+    text-align: center;
+}
+.lead {
+    text-align: center;;
+}
+
+.nav-pills {
+    padding: 20px;
+}
+
+.sectionContent {
+    margin: 120px;
+    padding: 50px;
+}
+.valueProp img {
+    width: 80%;
+
+}
+/*.valueProp {
+    margin: 120px;
+    padding: 50px;
+}*/
+#prototype img {
+    width: 30%;
+}
